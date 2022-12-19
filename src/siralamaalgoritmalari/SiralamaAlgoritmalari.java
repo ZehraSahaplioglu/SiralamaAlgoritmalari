@@ -25,6 +25,11 @@ public class SiralamaAlgoritmalari {
         s.SelectionSort();
         s.print();
         
+        InsertionSort i = new InsertionSort(d);
+        
+        s.print();
+        s.SelectionSort();
+        s.print();
         
 
     }
